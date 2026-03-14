@@ -1128,6 +1128,15 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=BAT-|NetColor=clBlue
+Net2=NetName=BAT_CHARGE|NetColor=$00794DA6
+Net3=NetName=BAT1_POS|NetColor=clRed
+Net4=NetName=BAT2_POS|NetColor=$001D7638
+Net5=NetName=GND_USB|NetColor=$00AFA576
+Net6=NetName=Vcc|NetColor=clFuchsia
+Net7=NetName=Vee|NetColor=$00E8864A
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
