@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=Vcc Pin=D2-A
-Removed Pin From Net: NetName=NetD2_K Pin=R32-1
-Added Pin To Net: NetName=Vcc Pin=R32-1
-Added Pin To Net: NetName=NetD2_K Pin=U11-1
-Added Pin To Net: NetName=NetD2_A Pin=D2-A
-Added Pin To Net: NetName=NetD2_A Pin=R32-2
-Added Net: Name=NetD2_A
