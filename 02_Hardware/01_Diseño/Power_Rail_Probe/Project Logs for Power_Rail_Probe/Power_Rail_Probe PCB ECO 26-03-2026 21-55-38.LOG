@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=BAT2_POS Pin=C13-1
+Removed Pin From Net: NetName=BAT2_POS Pin=Q4-2
+Removed Pin From Net: NetName=BAT2_POS Pin=Q5-3
+Removed Pin From Net: NetName=BAT2_POS Pin=R14-1
+Removed Pin From Net: NetName=BAT2_POS Pin=SW1-5
+Removed Pin From Net: NetName=BAT2_POS Pin=U5-3
+Removed Member From Class: ClassName=ON_OFF Member=BAT2_POS
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=Q4-2
+Added Pin To Net: NetName=NetC13_1 Pin=Q5-3
+Added Pin To Net: NetName=NetC13_1 Pin=R14-1
+Added Pin To Net: NetName=NetC13_1 Pin=U5-3
+Added Net: Name=NetC13_1
+Added Member To Class: ClassName=BAT_CHARGE_BALANCE Member=Wire NetC13_1
+Added Member To Class: ClassName=BAT_OVP_UVP Member=Wire NetC13_1

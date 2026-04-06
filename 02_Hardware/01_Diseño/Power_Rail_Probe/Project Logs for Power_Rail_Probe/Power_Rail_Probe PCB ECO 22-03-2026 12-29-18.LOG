@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=BAT_CHARGER Member=NetD8_1
+Removed Member From Class: ClassName=BAT_CHARGER Member=NetD8_2
+Removed Member From Class: ClassName=USB_POWER Member=NetD9_1
+Add Pin To Net: Unknown Pin: Pin CONN3-1
+Add Pin To Net: Unknown Pin: Pin CONN3-2
+Added Pin To Net: NetName=GND_USB Pin=D9-K
+Add Pin To Net: Unknown Pin: Pin JP1-S1
+Added Pin To Net: NetName=NetD8_A Pin=D8-A
+Added Pin To Net: NetName=NetD8_A Pin=R13-1
+Added Net: Name=NetD8_A
+Added Pin To Net: NetName=NetD8_K Pin=D8-K
+Added Pin To Net: NetName=NetD8_K Pin=U7-7
+Added Net: Name=NetD8_K
+Added Pin To Net: NetName=NetD9_A Pin=D9-A
+Added Pin To Net: NetName=NetD9_A Pin=R17-1
+Added Net: Name=NetD9_A
+Add Class Member: Failed to add class member : Component CONN3 DC JACK
+Added Member To Class: ClassName=BAT_CHARGER Member=Wire NetD8_A
+Added Member To Class: ClassName=BAT_CHARGER Member=Wire NetD8_K
+Added Member To Class: ClassName=USB_POWER Member=Wire NetD9_A

@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=BAT2_POS Pin=SW1-5
+Added Member To Class: ClassName=ON_OFF Member=Wire BAT2_POS

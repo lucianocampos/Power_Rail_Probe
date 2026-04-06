@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=BAT_CHARGE_BALANCE Member=NetC13_1
+Removed Member From Class: ClassName=BAT_OVP_UVP Member=NetC13_1
+Added Pin To Net: NetName=BAT2_POS Pin=C13-1
+Added Pin To Net: NetName=BAT2_POS Pin=Q4-2
+Added Pin To Net: NetName=BAT2_POS Pin=Q5-3
+Added Pin To Net: NetName=BAT2_POS Pin=R14-1
+Added Pin To Net: NetName=BAT2_POS Pin=U5-3
+Added Class: Name=Power

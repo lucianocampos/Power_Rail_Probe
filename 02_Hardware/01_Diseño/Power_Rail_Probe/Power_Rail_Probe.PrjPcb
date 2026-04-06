@@ -100,6 +100,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FCYNWFQW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Power_Rail_Probe\Design Rule Check - Power_Rail_Probe.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1225,6 +1229,7 @@ Net4=NetName=BAT2_POS|NetColor=$001D7638
 Net5=NetName=GND_USB|NetColor=$00AFA576
 Net6=NetName=Vcc|NetColor=clFuchsia
 Net7=NetName=Vee|NetColor=$00E8864A
+Net8=NetName=VSUM|NetColor=$000099FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

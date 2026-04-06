@@ -1,0 +1,148 @@
+Removed Pin From Net: NetName=NetR26_2 Pin=TP14-1
+Removed Member From Class: ClassName=Power_Rail_Probe Member=TP14
+Added Component: Designator=C25(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOD_323)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo Zener"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "BZT52C5V6S-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "BZT52C5V6S-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión de trabajo"; Value = "5V6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/804/BZT52C2V0S-BZT52C39S.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/diodes-incorporated/BZT52C5V6S-7-F/804868"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_0603_1608)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo Led"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "SML-D12U1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "SML-D12U1WT86CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.rohm.com/datasheet?p=SML-D12U1W&dist=Digi-key&media=referral&source=digi-key.com&campaign=Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-D12U1WT86/5843853"; VariantName = "[No Variations]"
+Added Component: Designator=D15(LED_0603_1608)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo Led"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "SML-D12U1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "SML-D12U1WT86CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.rohm.com/datasheet?p=SML-D12U1W&dist=Digi-key&media=referral&source=digi-key.com&campaign=Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-D12U1WT86/5843853"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BKE2K49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BKE2K49CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "2K49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RNCF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BKE2K49/1710046"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT82K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT82K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "82k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT82K0/1760956"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BTE1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BTE1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RNCF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BTE1K00/1710217"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT5K10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT5K10CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "5k1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOT_23-5)
+Add component (AddParameter): Name = "01_Componente"; Value = "OPA354AIDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOIC_8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "OPA354AIDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "296-26279-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopa354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/texas-instruments/OPA354AIDBVR/1572536"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vcc Pin=C25-1
+Added Pin To Net: NetName=Vee Pin=C25-2
+Added Pin To Net: NetName=Vee Pin=D1-A
+Added Pin To Net: NetName=Vcc Pin=D2-A
+Added Pin To Net: NetName=Vee Pin=D15-K
+Added Pin To Net: NetName=Vcc Pin=R30-2
+Added Pin To Net: NetName=Vcc Pin=R31-2
+Added Pin To Net: NetName=Vee Pin=R33-1
+Added Pin To Net: NetName=Vee Pin=U11-2
+Added Pin To Net: NetName=Vcc Pin=U11-5
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=R30-1
+Added Pin To Net: NetName=NetD1_K Pin=U11-4
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=NetD2_K Pin=D15-A
+Added Pin To Net: NetName=NetD2_K Pin=R32-1
+Added Net: Name=NetD2_K
+Added Pin To Net: NetName=NetR31_1 Pin=R31-1
+Added Pin To Net: NetName=NetR31_1 Pin=R33-2
+Added Pin To Net: NetName=NetR31_1 Pin=U11-3
+Added Net: Name=NetR31_1
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=U11-1
+Added Net: Name=NetR32_2
+Added Member To Class: ClassName=Power_Rail_Probe Member=Component C25 100nF
+Added Member To Class: ClassName=Power_Rail_Probe Member=Component D1 5V6
+Added Member To Class: ClassName=Power_Rail_Probe Member=Component D2 BAT_LOW
+Added Member To Class: ClassName=Power_Rail_Probe Member=Component D15 ON
+Added Member To Class: ClassName=Power_Rail_Probe Member=Component R30 2K49
+Added Member To Class: ClassName=Power_Rail_Probe Member=Component R31 82k
+Added Member To Class: ClassName=Power_Rail_Probe Member=Component R32 1K
+Added Member To Class: ClassName=Power_Rail_Probe Member=Component R33 5K1
+Added Member To Class: ClassName=Power_Rail_Probe Member=Component U11 OPA354AIDBVR

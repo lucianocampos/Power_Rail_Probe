@@ -1,0 +1,3 @@
+Change Physical Footprint: Designator=C11 Old Footprint=CAP_SMD_0603 New Footprint=CAP_SMD_0603
+Change Physical Footprint: Designator=F1 Old Footprint=RES_SMD_1210 New Footprint=RES_SMD_1210
+Change Physical Footprint: Designator=R27 Old Footprint=RES_SMD_0603 New Footprint=RES_SMD_0603

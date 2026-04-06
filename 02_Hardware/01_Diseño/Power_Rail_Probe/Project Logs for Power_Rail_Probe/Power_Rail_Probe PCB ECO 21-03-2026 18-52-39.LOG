@@ -1,0 +1,45 @@
+Added Component: Designator=U7(DFN_10)
+Add component (AddParameter): Name = "01_Componente"; Value = "Cargador de batería"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "DFN-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "MCP73213T-A6SI/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "MCP73213T-A6SI/MFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ww1.microchip.com/downloads/en/devicedoc/20002190c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/microchip-technology/MCP73213T-A6SI-MF/2126117"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-6
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-6
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin D10-1
+Add Pin To Net: Unknown Pin: Pin D10-6
+Add Pin To Net: Unknown Pin: Pin D11-1
+Add Pin To Net: Unknown Pin: Pin D11-6
+Add Pin To Net: Unknown Pin: Pin D12-1
+Add Pin To Net: Unknown Pin: Pin D12-6
+Add Pin To Net: Unknown Pin: Pin D13-1
+Add Pin To Net: Unknown Pin: Pin D13-6
+Add Pin To Net: Unknown Pin: Pin D14-1
+Add Pin To Net: Unknown Pin: Pin D14-6
+Add Pin To Net: Unknown Pin: Pin JP1-S1
+Added Pin To Net: NetName=Vcc Pin=U7-1
+Added Pin To Net: NetName=Vcc Pin=U7-2
+Added Pin To Net: NetName=NetSW1_1 Pin=U7-3
+Added Pin To Net: NetName=NetSW1_1 Pin=U7-4
+Added Pin To Net: NetName=NetD8_2 Pin=U7-7
+Added Pin To Net: NetName=GND_USB Pin=U7-8
+Added Pin To Net: NetName=GND_USB Pin=U7-9
+Added Pin To Net: NetName=NetR21_2 Pin=U7-10
+Added Member To Class: ClassName=Power_Rail_Probe Member=Component U7 MCP73123

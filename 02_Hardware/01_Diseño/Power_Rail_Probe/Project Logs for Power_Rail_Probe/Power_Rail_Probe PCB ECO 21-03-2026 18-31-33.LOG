@@ -1,0 +1,1812 @@
+Added Component: Designator=BH1(BH-18650-A1BJ021)
+Add component (AddParameter): Name = "01_Componente"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "BH-18650-A1BJ021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "Not Available"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "MYOUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Funcion"; Value = "Battery Holder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "01_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/C20606804.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QgdWXldRRVMIVlxRFlhXBFZfRldXX1JXQVQPBlEDEwUxVlNRQ1BfVVJRQ1VZVDsOAxUeFF5JWBYZEEoBGA4JCwFIFA4DSA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "02_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "Not Available"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "03_LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.lcsc.com/product-detail/C20606804.html"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP_SMD_1206)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GRM3195C1H104GA05D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "490-GRM3195C1H104GA05DCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "2%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM3195C1H104GA05-01A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM3195C1H104GA05D/13531987"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://yageogroup.com/content/datasheet/asset/file/UPY-GPHC_X7R_6_3V-TO-250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R8BB104/2103079?s=N4IgTCBcDaIMJwAwDZEGYDSAlAGgdiwA4AhYgRkQBYQBdAXyA"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://yageogroup.com/content/datasheet/asset/file/UPY-GPHC_X7R_6_3V-TO-250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603KRX7R8BB104/2103079"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP_SMD_0805)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GRM21BR71E225KE11K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "490-GRM21BR71E225KE11KCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "2u2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP_SMD_0805)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GRM21BR71E225KE11K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "490-GRM21BR71E225KE11KCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "2u2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP_SMD_0805)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GRM21BR71E225KE11K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "490-GRM21BR71E225KE11KCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "2u2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP_SMD_0805)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GRM21BR71E225KE11K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "490-GRM21BR71E225KE11KCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "2u2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR71E225KE11-01A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM21BR71E225KE11K/10694460"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP_SMD_0805)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GRM21BR71E225KE11K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "490-GRM21BR71E225KE11KCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "2u2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP_SMD_0805)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GRM21BR71E225KE11K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "490-GRM21BR71E225KE11KCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "2u2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAP_SMD_0805)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GRM21BR71E225KE11K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "490-GRM21BR71E225KE11KCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "2u2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAP_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CC0603KRX7R8BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "311-1341-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAP_SMD_0805)
+Add component (AddParameter): Name = "01_Componente"; Value = "Capacitor cerámico"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GRM21BR71E225KE11K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "490-GRM21BR71E225KE11KCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "2u2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Tensión de trabajo"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "10_Dielectrico"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR71E225KE11-01A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM21BR71E225KE11K/10694460"; VariantName = "[No Variations]"
+Added Component: Designator=CONN1(CONBNC002)
+Add component (AddParameter): Name = "01_Componente"; Value = "Conector BNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "BNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CONBNC002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "343-CONBNC002-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "TE Connectivity Linx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Contactos"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Impedancia"; Value = "50 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=CONBNC002&DocType=Data+Sheet&DocLang=English&DocFormat=pdf&PartCntxt=CONBNC002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-linx/CONBNC002/16013841"; VariantName = "[No Variations]"
+Added Component: Designator=CONN2(CONBNC002)
+Add component (AddParameter): Name = "01_Componente"; Value = "Conector BNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "BNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "CONBNC002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "343-CONBNC002-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "TE Connectivity Linx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Contactos"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Impedancia"; Value = "50 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CONN3(ADC-002A)
+Add component (AddParameter): Name = "01_Componente"; Value = "DC JACK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "ADC-002-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "2057-ADC-002-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Contactos"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Paso"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://app.adam-tech.com/products/download/data_sheet/203725/adc-002-x-data-sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/adam-tech/ADC-002-1/21710741"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DO_214_AC)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "SS14-M3/5AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "SS14-M3/5ATGICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Vishay General Semiconductor - Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/661/SS12-SS16.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/SS14-M3-5AT/4872626?s=N4IgTCBcDaIMpwIwBYC0BZAzAegKwEEAVEAXQF8g"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOD_323)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GSEC15B006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4786-GSEC15B006CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Good-Ark Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión de trabajo"; Value = "15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://goodarksemi.com/docs/datasheets/esd_tvs/GSECxB006.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/good-ark-semiconductor/GSEC15B006/18667511"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SOD_323)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo Zener"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "BZT52C5V6S-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "BZT52C5V6S-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión de trabajo"; Value = "5V6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/804/BZT52C2V0S-BZT52C39S.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/diodes-incorporated/BZT52C5V6S-7-F/804868"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SOD_323)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo Zener"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "BZT52C5V6S-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "BZT52C5V6S-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión de trabajo"; Value = "5V6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7(DO_214_AC)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "SS14-M3/5AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "SS14-M3/5ATGICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Vishay General Semiconductor - Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED_0603_1608)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo Led"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "SML-D12U1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "SML-D12U1WT86CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.rohm.com/datasheet?p=SML-D12U1W&dist=Digi-key&media=referral&source=digi-key.com&campaign=Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-D12U1WT86/5843853"; VariantName = "[No Variations]"
+Added Component: Designator=D9(LED_0603_1608)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo Led"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "SML-D12U1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "SML-D12U1WT86CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.rohm.com/datasheet?p=SML-D12U1W&dist=Digi-key&media=referral&source=digi-key.com&campaign=Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-D12U1WT86/5843853"; VariantName = "[No Variations]"
+Added Component: Designator=D10(SOD_323)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GSEC15B006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4786-GSEC15B006CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Good-Ark Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión de trabajo"; Value = "15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D11(SOD_323)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GSEC15B006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4786-GSEC15B006CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Good-Ark Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión de trabajo"; Value = "15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D12(SOD_323)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GSEC15B006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4786-GSEC15B006CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Good-Ark Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión de trabajo"; Value = "15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D13(SOD_323)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GSEC15B006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4786-GSEC15B006CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Good-Ark Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión de trabajo"; Value = "15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D14(SOD_323)
+Add component (AddParameter): Name = "01_Componente"; Value = "Diodo TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GSEC15B006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4786-GSEC15B006CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Good-Ark Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión de trabajo"; Value = "15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://goodarksemi.com/docs/datasheets/esd_tvs/GSECxB006.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/good-ark-semiconductor/GSEC15B006/18667511"; VariantName = "[No Variations]"
+Added Component: Designator=F1(RES_SMD_1210)
+Add component (AddParameter): Name = "01_Componente"; Value = "Polyswitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "SMD1206B050TF/15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "13-SMD1206B050TF/15CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageogroup.com/content/datasheet/asset/file/SMD1210_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/yageo/SMD1210B075TF-24/15212934"; VariantName = "[No Variations]"
+Added Component: Designator=F2(RES_SMD_1210)
+Add component (AddParameter): Name = "01_Componente"; Value = "Polyswitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "SMD1206B050TF/15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "13-SMD1206B050TF/15CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/cpc/pptc/SMD1206_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/yageo/SMD1206B050TF-15/13689651"; VariantName = "[No Variations]"
+Added Component: Designator=F3(RES_SMD_1210)
+Add component (AddParameter): Name = "01_Componente"; Value = "Polyswitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "SMD1206B050TF/15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "13-SMD1206B050TF/15CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageogroup.com/content/datasheet/asset/file/SMD1210_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/yageo/SMD1210B075TF-24/15212934"; VariantName = "[No Variations]"
+Added Component: Designator=F4(RES_SMD_1210)
+Add component (AddParameter): Name = "01_Componente"; Value = "Polyswitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "SMD1206B050TF/15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "13-SMD1206B050TF/15CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageogroup.com/content/datasheet/asset/file/SMD1210_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/yageo/SMD1210B075TF-24/15212934"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(FERRITE_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Ferrite bead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "MPZ1608S102ATA00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "445-MPZ1608S102ATA00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Frecuencia"; Value = "100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://product.tdk.com/en/system/files?file=dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz1608_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/tdk/MPZ1608S102ATA00/3078621"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(1054500101)
+Add component (AddParameter): Name = "01_Componente"; Value = "Conector USB C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "USB C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "1054500101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "WM12856CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Contactos"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Paso"; Value = "0.50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://files.edac.net/edac/content/698A/698A106-162-211%20-%20EDAC%20USB%20Connector.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/edac-inc/698A106-162-211/17186068"; VariantName = "[No Variations]"
+Added Component: Designator=P1(POTENCIOMETRO_09VR1S25F1N103B1)
+Add component (AddParameter): Name = "01_Componente"; Value = "Potenciometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "09VR1S25F1N103B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "CT3183-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "CTS Electrocomponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ctscorp.com/files/datasheets/potentiometers/potentiometer-09vr-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/cts-electrocomponents/09VR1S25F1N103B1/10270974?s=N4IgTCBcDaIMIBUDMBGAHEgtAOQCIgF0BfIA"; VariantName = "[No Variations]"
+Added Component: Designator=P2(POTENCIOMETRO_09VR1S25F1N103B1)
+Add component (AddParameter): Name = "01_Componente"; Value = "Potenciometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "09VR1S25F1N103B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "CT3183-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "CTS Electrocomponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ctscorp.com/files/datasheets/potentiometers/potentiometer-09vr-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/cts-electrocomponents/09VR1S25F1N103B1/10270974"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT_23-3)
+Add component (AddParameter): Name = "01_Componente"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "AO3414A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4518-AO3414ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión máxima"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente máxima"; Value = "4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Potencia máxima"; Value = "1.3W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5022/AO3414A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/umw/AO3414A/17635259"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT_23-3)
+Add component (AddParameter): Name = "01_Componente"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "AO3414A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4518-AO3414ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión máxima"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente máxima"; Value = "4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Potencia máxima"; Value = "1.3W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT_23-3)
+Add component (AddParameter): Name = "01_Componente"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "AO3414A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4518-AO3414ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión máxima"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente máxima"; Value = "4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Potencia máxima"; Value = "1.3W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT_23-3)
+Add component (AddParameter): Name = "01_Componente"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "AO3414A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4518-AO3414ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión máxima"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente máxima"; Value = "4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Potencia máxima"; Value = "1.3W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q5(SOT_23-3)
+Add component (AddParameter): Name = "01_Componente"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "AO3414A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4518-AO3414ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión máxima"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente máxima"; Value = "4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Potencia máxima"; Value = "1.3W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q6(SOT_23-3)
+Add component (AddParameter): Name = "01_Componente"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "AO3414A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4518-AO3414ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión máxima"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente máxima"; Value = "4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Potencia máxima"; Value = "1.3W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://goodarksemi.com/docs/datasheets/mosfets/SSF2300.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/good-ark-semiconductor/SSF2300/18648256"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(SOT_23-3)
+Add component (AddParameter): Name = "01_Componente"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "AO3414A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4518-AO3414ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión máxima"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente máxima"; Value = "4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Potencia máxima"; Value = "1.3W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q8(SOT_23-3)
+Add component (AddParameter): Name = "01_Componente"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "AO3414A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4518-AO3414ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión máxima"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente máxima"; Value = "4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Potencia máxima"; Value = "1.3W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q9(SOT_23-3)
+Add component (AddParameter): Name = "01_Componente"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "AO3414A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "4518-AO3414ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión máxima"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente máxima"; Value = "4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Potencia máxima"; Value = "1.3W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RT0603BRD074R99L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "13-RT0603BRD074R99LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "4R99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RT0603BRD074R99L/7708336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RT0603BRD074R99L/7708336"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BTE499R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BTE499RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "499R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RNCF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BTE499R/1710134"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BTE49K9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BTE49K9CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "49K9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RNCF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BTE49K9/1710260"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BKE2K49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BKE2K49CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "2K49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RNCF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BKE2K49/1710046"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BTE1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BTE1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RNCF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BTE1K00/1710217"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100R/1761113"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BTE49K9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BTE49K9CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "49K9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BTE1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BTE1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RNCF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BTE1K00/1710217"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BTE1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BTE1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100R/1761113"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100R/1761113"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_SMD_0805)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "PE0805FRM070R005Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "13-PE0805FRM070R005ZCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "5mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5343/PE_Series_DS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/yageo/PE0805FRM070R005Z/16992204"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BTE1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BTE1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RNCF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BTE1K00/1710217"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BTE1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BTE1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RNCF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BTE1K00/1710217"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100R/1761113"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BTE1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BTE1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RNCF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BTE1K00/1710217"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100R/1761113"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100R/1761113"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100R/1761113"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BTE1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BTE1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RNCF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BTE1K00/1710217"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RNCF0603BTE1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "738-RNCF0603BTE1K00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RNCF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BTE1K00/1710217"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT5K10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT5K10CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "5k1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT5K10/1760908"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT5K10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT5K10CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "5k1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT82K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT82K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "82k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT82K0/1760956"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT82K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT82K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "82k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT10K0/1761235"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100R/1761113"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100R/1761113"; VariantName = "[No Variations]"
+Added Component: Designator=RP1(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100R/1761113"; VariantName = "[No Variations]"
+Added Component: Designator=RP2(RES_SMD_0603)
+Add component (AddParameter): Name = "01_Componente"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "RMCF0603FT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "RMCF0603FT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Valor"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Tolerancia"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100R/1761113"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(GF-661-0010)
+Add component (AddParameter): Name = "01_Componente"; Value = "Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "GF-661-0010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "GF-661-0010-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "CW Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "01_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/cw-industries/GF-661-0010/2771205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "02_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.cwind.com/sites/cwind/files/2018-04/Miniature%20Slide%20Switches.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP9(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP10(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP11(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP12(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP13(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP14(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP15(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP16(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP17(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=TP18(Test_Point_THT)
+Add component (AddParameter): Name = "01_Componente"; Value = "Test_Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT_23-5)
+Add component (AddParameter): Name = "01_Componente"; Value = "OPA354AIDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOIC_8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "OPA354AIDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "296-26279-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopa354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/texas-instruments/OPA354AIDBVR/1572536"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT_23-5)
+Add component (AddParameter): Name = "01_Componente"; Value = "OPA354AIDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOIC_8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "OPA354AIDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "296-26279-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopa354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/texas-instruments/OPA354AIDBVR/1572536"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT_23-6)
+Add component (AddParameter): Name = "01_Componente"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT_23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "DW01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "5399-DW01CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Shenzhen Slkormicro Semicon Co., Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Funcion"; Value = "Protector 1S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "01_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6808/DW01%20SOT-23-6.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "02_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/DW01/26601036"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOT_23-5)
+Add component (AddParameter): Name = "01_Componente"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT_23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "NCP163ASN250T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "488-NCP163ASN250T1GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión nominal"; Value = "3V3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente de salida"; Value = "300 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Potencia de salida"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/detail/onsemi/NCP163ASN250T1G/9694659"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOT_23-6)
+Add component (AddParameter): Name = "01_Componente"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT_23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "HY2213"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Hycon Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Funcion"; Value = "Balanceador de carga"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "01_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.hycontek.com/hy_battery/DS-HY2213_EN.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "02_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NE"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOT_23-6)
+Add component (AddParameter): Name = "01_Componente"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT_23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "DW01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "5399-DW01CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Shenzhen Slkormicro Semicon Co., Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Funcion"; Value = "Protector 1S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "01_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6808/DW01%20SOT-23-6.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "02_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/DW01/26601036"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DFN_10
+Added Component: Designator=U8(SOT_23-6)
+Add component (AddParameter): Name = "01_Componente"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT_23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "HY2213"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "NE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Hycon Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Funcion"; Value = "Balanceador de carga"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "01_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.hycontek.com/hy_battery/DS-HY2213_EN.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "02_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "NE"; VariantName = "[No Variations]"
+Added Component: Designator=U9(DFN_14)
+Add component (AddParameter): Name = "01_Componente"; Value = "Controlador USB-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "W-DFN3030-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "AP33771CFBZ-13-FA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "31-AP33771CFBZ-13-FA01CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.diodes.com/datasheet/download/AP33771C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/diodes-incorporated/AP33771CFBZ-13-FA01/24384228?s=N4IgjCBcpgnAHLKoDGUBmBDANgZwKYA0IA9lANogAMIAugL7EC0ArMiGpFnkaRSACY69RoP4BBAAoBmaQHY5EWsQBs7AJYATKCCZgqEYgAcALjpDETATyP4dmXGhFA"; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOT_23-5)
+Add component (AddParameter): Name = "01_Componente"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "SOT_23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "ADP7183ACPZN-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "505-ADP7183ACPZN-R7CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Tensión nominal"; Value = "3V3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Corriente de salida"; Value = "300 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "09_Potencia de salida"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7183.pdf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-2V5 Pin=C9-1
+Added Pin To Net: NetName=-2V5 Pin=C10-1
+Added Pin To Net: NetName=-2V5 Pin=C22-1
+Added Pin To Net: NetName=-2V5 Pin=RP2-1
+Added Pin To Net: NetName=-2V5 Pin=TP16-1
+Added Pin To Net: NetName=-2V5 Pin=U1-2
+Added Pin To Net: NetName=-2V5 Pin=U2-2
+Added Pin To Net: NetName=-2V5 Pin=U10-5
+Added Net: Name=-2V5
+Added Pin To Net: NetName=2V5 Pin=C5-1
+Added Pin To Net: NetName=2V5 Pin=C6-1
+Added Pin To Net: NetName=2V5 Pin=C15-2
+Added Pin To Net: NetName=2V5 Pin=RP1-2
+Added Pin To Net: NetName=2V5 Pin=TP7-1
+Added Pin To Net: NetName=2V5 Pin=U1-5
+Added Pin To Net: NetName=2V5 Pin=U2-5
+Added Pin To Net: NetName=2V5 Pin=U4-5
+Added Net: Name=2V5
+Added Pin To Net: NetName=AUX Pin=C11-2
+Added Pin To Net: NetName=AUX Pin=F1-1
+Added Pin To Net: NetName=AUX Pin=R27-2
+Added Pin To Net: NetName=AUX Pin=TP1-1
+Added Net: Name=AUX
+Added Pin To Net: NetName=BAT1_NEG Pin=BH1-N1
+Added Pin To Net: NetName=BAT1_NEG Pin=C12-1
+Added Pin To Net: NetName=BAT1_NEG Pin=Q6-3
+Added Pin To Net: NetName=BAT1_NEG Pin=TP10-1
+Added Pin To Net: NetName=BAT1_NEG Pin=U3-6
+Added Net: Name=BAT1_NEG
+Added Pin To Net: NetName=BAT1_POS Pin=F2-2
+Added Pin To Net: NetName=BAT1_POS Pin=R10-2
+Added Pin To Net: NetName=BAT1_POS Pin=R11-2
+Added Pin To Net: NetName=BAT1_POS Pin=R28-2
+Added Pin To Net: NetName=BAT1_POS Pin=SW1-2
+Added Pin To Net: NetName=BAT1_POS Pin=TP3-1
+Added Pin To Net: NetName=BAT1_POS Pin=TP4-1
+Added Net: Name=BAT1_POS
+Added Pin To Net: NetName=BAT2_NEG Pin=BH1-N2
+Added Pin To Net: NetName=BAT2_NEG Pin=C19-1
+Added Pin To Net: NetName=BAT2_NEG Pin=Q9-3
+Added Pin To Net: NetName=BAT2_NEG Pin=TP17-1
+Added Pin To Net: NetName=BAT2_NEG Pin=U6-6
+Added Net: Name=BAT2_NEG
+Added Pin To Net: NetName=BAT2_POS Pin=C13-1
+Added Pin To Net: NetName=BAT2_POS Pin=F4-2
+Added Pin To Net: NetName=BAT2_POS Pin=Q4-2
+Added Pin To Net: NetName=BAT2_POS Pin=Q5-3
+Added Pin To Net: NetName=BAT2_POS Pin=R14-1
+Added Pin To Net: NetName=BAT2_POS Pin=R19-2
+Added Pin To Net: NetName=BAT2_POS Pin=R20-2
+Added Pin To Net: NetName=BAT2_POS Pin=R29-2
+Added Pin To Net: NetName=BAT2_POS Pin=SW1-5
+Added Pin To Net: NetName=BAT2_POS Pin=TP12-1
+Added Pin To Net: NetName=BAT2_POS Pin=TP13-1
+Added Pin To Net: NetName=BAT2_POS Pin=U5-3
+Added Pin To Net: NetName=BAT2_POS Pin=U5-5
+Added Net: Name=BAT2_POS
+Added Pin To Net: NetName=BAT- Pin=C23-1
+Added Pin To Net: NetName=BAT- Pin=Q7-2
+Added Pin To Net: NetName=BAT- Pin=Q8-3
+Added Pin To Net: NetName=BAT- Pin=R22-1
+Added Pin To Net: NetName=BAT- Pin=SW1-8
+Added Pin To Net: NetName=BAT- Pin=TP18-1
+Added Pin To Net: NetName=BAT- Pin=U8-3
+Added Pin To Net: NetName=BAT- Pin=U8-5
+Added Net: Name=BAT-
+Added Pin To Net: NetName=GND_USB Pin=C14-1
+Added Pin To Net: NetName=GND_USB Pin=C18-1
+Added Pin To Net: NetName=GND_USB Pin=C24-1
+Added Pin To Net: NetName=GND_USB Pin=JP1-A1
+Added Pin To Net: NetName=GND_USB Pin=JP1-A12
+Added Pin To Net: NetName=GND_USB Pin=JP1-B1
+Added Pin To Net: NetName=GND_USB Pin=JP1-B12
+Added Pin To Net: NetName=GND_USB Pin=Q1-2
+Added Pin To Net: NetName=GND_USB Pin=R21-1
+Added Pin To Net: NetName=GND_USB Pin=R23-1
+Added Pin To Net: NetName=GND_USB Pin=R24-1
+Added Pin To Net: NetName=GND_USB Pin=R25-1
+Added Pin To Net: NetName=GND_USB Pin=R26-1
+Added Pin To Net: NetName=GND_USB Pin=SW1-7
+Added Pin To Net: NetName=GND_USB Pin=U9-5
+Added Net: Name=GND_USB
+Added Pin To Net: NetName=INPUT Pin=C1-1
+Added Pin To Net: NetName=INPUT Pin=C2-2
+Added Pin To Net: NetName=INPUT Pin=CONN1-1
+Added Pin To Net: NetName=INPUT Pin=R3-2
+Added Net: Name=INPUT
+Added Pin To Net: NetName=NetBH1_P1 Pin=BH1-P1
+Added Pin To Net: NetName=NetBH1_P1 Pin=F2-1
+Added Net: Name=NetBH1_P1
+Added Pin To Net: NetName=NetBH1_P2 Pin=BH1-P2
+Added Pin To Net: NetName=NetBH1_P2 Pin=F4-1
+Added Net: Name=NetBH1_P2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R7-2
+Added Pin To Net: NetName=NetC3_1 Pin=R8-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R3-1
+Added Pin To Net: NetName=NetC3_2 Pin=R4-2
+Added Pin To Net: NetName=NetC3_2 Pin=R7-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-4
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R2-1
+Added Pin To Net: NetName=NetC4_1 Pin=R9-2
+Added Pin To Net: NetName=NetC4_1 Pin=U2-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R8-2
+Added Pin To Net: NetName=NetC4_2 Pin=R9-1
+Added Pin To Net: NetName=NetC4_2 Pin=U2-4
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=P1-2
+Added Pin To Net: NetName=NetC7_1 Pin=P2-2
+Added Pin To Net: NetName=NetC7_1 Pin=RP2-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=P1-1
+Added Pin To Net: NetName=NetC7_2 Pin=P2-1
+Added Pin To Net: NetName=NetC7_2 Pin=RP1-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R28-1
+Added Pin To Net: NetName=NetC12_2 Pin=U3-5
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=R11-1
+Added Pin To Net: NetName=NetC13_2 Pin=U5-1
+Added Pin To Net: NetName=NetC13_2 Pin=U5-2
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=F3-1
+Added Pin To Net: NetName=NetC14_2 Pin=R12-2
+Added Pin To Net: NetName=NetC14_2 Pin=U9-4
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=R29-1
+Added Pin To Net: NetName=NetC19_2 Pin=U6-5
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=R20-1
+Added Pin To Net: NetName=NetC23_2 Pin=U8-1
+Added Pin To Net: NetName=NetC23_2 Pin=U8-2
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=U9-14
+Added Net: Name=NetC24_2
+Added Pin To Net: NetName=NetCONN3_1 Pin=CONN3-1
+Added Pin To Net: NetName=NetCONN3_1 Pin=F1-2
+Added Net: Name=NetCONN3_1
+Added Pin To Net: NetName=NetD5_1 Pin=Q1-1
+Added Pin To Net: NetName=NetD5_1 Pin=R27-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=Q2-2
+Added Pin To Net: NetName=NetD6_1 Pin=Q3-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD6_6 Pin=Q2-1
+Added Pin To Net: NetName=NetD6_6 Pin=Q3-1
+Added Pin To Net: NetName=NetD6_6 Pin=R16-2
+Added Net: Name=NetD6_6
+Added Pin To Net: NetName=NetD7_1 Pin=Q3-3
+Added Pin To Net: NetName=NetD7_1 Pin=R15-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD8_1 Pin=R13-1
+Added Net: Name=NetD8_1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_1 Pin=R17-1
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetFB1_2 Pin=FB1-2
+Added Pin To Net: NetName=NetFB1_2 Pin=R4-1
+Added Net: Name=NetFB1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=R5-1
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_3 Pin=R6-1
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R12-1
+Added Pin To Net: NetName=NetQ2_3 Pin=U9-3
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R10-1
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=U3-3
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_2 Pin=Q6-2
+Added Net: Name=NetQ5_2
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=U3-1
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ7_3 Pin=Q7-3
+Added Pin To Net: NetName=NetQ7_3 Pin=R19-1
+Added Net: Name=NetQ7_3
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=U6-3
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ8_2 Pin=Q8-2
+Added Pin To Net: NetName=NetQ8_2 Pin=Q9-2
+Added Net: Name=NetQ8_2
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=U6-1
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U3-2
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=R18-2
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=U9-2
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U9-1
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=U6-2
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=U9-8
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=TP14-1
+Added Pin To Net: NetName=NetR26_2 Pin=U9-9
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-1
+Added Pin To Net: NetName=NetSW1_1 Pin=TP5-1
+Added Net: Name=NetSW1_1
+Added Pin To Net: NetName=OFFSET Pin=C8-2
+Added Pin To Net: NetName=OFFSET Pin=FB1-1
+Added Pin To Net: NetName=OFFSET Pin=R5-2
+Added Pin To Net: NetName=OFFSET Pin=R6-2
+Added Net: Name=OFFSET
+Added Pin To Net: NetName=OUTPUT Pin=CONN2-1
+Added Pin To Net: NetName=OUTPUT Pin=R1-2
+Added Pin To Net: NetName=OUTPUT Pin=R2-2
+Added Net: Name=OUTPUT
+Added Pin To Net: NetName=PGND Pin=C11-1
+Added Pin To Net: NetName=PGND Pin=CONN3-2
+Added Pin To Net: NetName=PGND Pin=Q1-3
+Added Pin To Net: NetName=PGND Pin=TP2-1
+Added Net: Name=PGND
+Added Pin To Net: NetName=SGND Pin=C5-2
+Added Pin To Net: NetName=SGND Pin=C6-2
+Added Pin To Net: NetName=SGND Pin=C8-1
+Added Pin To Net: NetName=SGND Pin=C9-2
+Added Pin To Net: NetName=SGND Pin=C10-2
+Added Pin To Net: NetName=SGND Pin=C15-1
+Added Pin To Net: NetName=SGND Pin=C16-1
+Added Pin To Net: NetName=SGND Pin=C17-1
+Added Pin To Net: NetName=SGND Pin=C20-2
+Added Pin To Net: NetName=SGND Pin=C21-2
+Added Pin To Net: NetName=SGND Pin=C22-2
+Added Pin To Net: NetName=SGND Pin=CONN1-2
+Added Pin To Net: NetName=SGND Pin=CONN2-2
+Added Pin To Net: NetName=SGND Pin=SW1-6
+Added Pin To Net: NetName=SGND Pin=TP11-1
+Added Pin To Net: NetName=SGND Pin=U1-3
+Added Pin To Net: NetName=SGND Pin=U2-3
+Added Pin To Net: NetName=SGND Pin=U4-2
+Added Pin To Net: NetName=SGND Pin=U10-2
+Added Net: Name=SGND
+Added Pin To Net: NetName=USB_CC1 Pin=JP1-A5
+Added Pin To Net: NetName=USB_CC1 Pin=R23-2
+Added Pin To Net: NetName=USB_CC1 Pin=U9-11
+Added Net: Name=USB_CC1
+Added Pin To Net: NetName=USB_CC2 Pin=JP1-B5
+Added Pin To Net: NetName=USB_CC2 Pin=R24-2
+Added Pin To Net: NetName=USB_CC2 Pin=U9-10
+Added Net: Name=USB_CC2
+Added Pin To Net: NetName=USB_D_N Pin=JP1-A7
+Added Pin To Net: NetName=USB_D_N Pin=JP1-B7
+Added Pin To Net: NetName=USB_D_N Pin=U9-12
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=JP1-A6
+Added Pin To Net: NetName=USB_D_P Pin=JP1-B6
+Added Pin To Net: NetName=USB_D_P Pin=U9-13
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=VCC_USB Pin=F3-2
+Added Pin To Net: NetName=VCC_USB Pin=JP1-A4
+Added Pin To Net: NetName=VCC_USB Pin=JP1-A9
+Added Pin To Net: NetName=VCC_USB Pin=JP1-B4
+Added Pin To Net: NetName=VCC_USB Pin=JP1-B9
+Added Pin To Net: NetName=VCC_USB Pin=TP9-1
+Added Net: Name=VCC_USB
+Added Pin To Net: NetName=Vcc Pin=C16-2
+Added Pin To Net: NetName=Vcc Pin=C17-2
+Added Pin To Net: NetName=Vcc Pin=C18-2
+Added Pin To Net: NetName=Vcc Pin=R13-2
+Added Pin To Net: NetName=Vcc Pin=R17-2
+Added Pin To Net: NetName=Vcc Pin=SW1-3
+Added Pin To Net: NetName=Vcc Pin=TP6-1
+Added Pin To Net: NetName=Vcc Pin=TP8-1
+Added Pin To Net: NetName=Vcc Pin=U4-1
+Added Pin To Net: NetName=Vcc Pin=U4-3
+Added Net: Name=Vcc
+Added Pin To Net: NetName=Vee Pin=C20-1
+Added Pin To Net: NetName=Vee Pin=C21-1
+Added Pin To Net: NetName=Vee Pin=SW1-9
+Added Pin To Net: NetName=Vee Pin=TP15-1
+Added Pin To Net: NetName=Vee Pin=U10-1
+Added Pin To Net: NetName=Vee Pin=U10-3
+Added Net: Name=Vee
+Added Class: Name=Power_Rail_Probe
+Added Class: Name=AUX_POWER
+Added Class: Name=BAT_CHARGE_BALANCE
+Added Class: Name=BAT_CHARGER
+Added Class: Name=BAT_OVP_UVP
+Added Class: Name=BATTERY
+Added Class: Name=LDOS
+Added Class: Name=ON_OFF
+Added Class: Name=SIGNAL
+Added Class: Name=USB_POWER
+Added Differential Pair: Name=USB_D

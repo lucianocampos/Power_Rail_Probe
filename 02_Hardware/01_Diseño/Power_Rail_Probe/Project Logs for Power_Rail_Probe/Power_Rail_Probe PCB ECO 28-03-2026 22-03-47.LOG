@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=TP4 Old Footprint=Test_Point_THT New Footprint=Test_Point_SMD
+Change Component Footprint: Designator=TP10 Old Footprint=Test_Point_THT New Footprint=Test_Point_SMD
+Change Component Footprint: Designator=TP17 Old Footprint=Test_Point_THT New Footprint=Test_Point_SMD
+Change Component Designator: OldDesignator=FB? NewDesignator=FB2
+Change Net Name : Old Net Name=NetFB?_1 New Net Name=NetFB2_1

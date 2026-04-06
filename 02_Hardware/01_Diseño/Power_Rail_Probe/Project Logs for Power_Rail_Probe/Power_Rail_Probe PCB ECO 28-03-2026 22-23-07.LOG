@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=Vcc Pin=C18-2
+Removed Pin From Net: NetName=Vcc Pin=D3-K
+Removed Pin From Net: NetName=Vcc Pin=D7-K
+Removed Pin From Net: NetName=Vcc Pin=R13-2
+Removed Pin From Net: NetName=Vcc Pin=R17-2
+Removed Pin From Net: NetName=Vcc Pin=TP8-1
+Removed Pin From Net: NetName=Vcc Pin=U7-1
+Removed Pin From Net: NetName=Vcc Pin=U7-2
+Removed Member From Class: ClassName=AUX_POWER Member=Vcc
+Removed Member From Class: ClassName=BAT_CHARGER Member=Vcc
+Removed Member From Class: ClassName=USB_POWER Member=Vcc
+Added Pin To Net: NetName=VSUM Pin=C18-2
+Added Pin To Net: NetName=VSUM Pin=D3-K
+Added Pin To Net: NetName=VSUM Pin=D7-K
+Added Pin To Net: NetName=VSUM Pin=R13-2
+Added Pin To Net: NetName=VSUM Pin=R17-2
+Added Pin To Net: NetName=VSUM Pin=TP8-1
+Added Pin To Net: NetName=VSUM Pin=U7-1
+Added Pin To Net: NetName=VSUM Pin=U7-2
+Added Net: Name=VSUM
+Added Member To Class: ClassName=AUX_POWER Member=Wire VSUM
+Added Member To Class: ClassName=BAT_CHARGER Member=Wire VSUM
+Added Member To Class: ClassName=Power Member=Wire VSUM
+Added Member To Class: ClassName=USB_POWER Member=Wire VSUM

@@ -1,0 +1,16 @@
+Change Value of Parameter 03_Encapsulado in Part D5 Old=SOD-323 New=
+Change Value of Parameter 04_Manufacturer Part Number in Part D5 Old=BZT52C5V6S-7-F New=
+Change Value of Parameter 05_Digikey Part Number in Part D5 Old=BZT52C5V6S-FDICT-ND New=
+Change Value of Parameter 06_Manufacturer in Part D5 Old=Diodes Incorporated New=
+Change Value of Parameter 07_Tensión de trabajo in Part D5 Old=5V6 New=
+Change Component Parameter Comment in D5 Old= New=Diodo Zener
+Change Value of Parameter ComponentLink1URL in Part D5 Old=https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/804/BZT52C2V0S-BZT52C39S.pdf New=
+Change Value of Parameter ComponentLink2URL in Part D5 Old=https://www.digikey.com/en/products/detail/diodes-incorporated/BZT52C5V6S-7-F/804868 New=
+Change Value of Parameter 03_Encapsulado in Part D6 Old=SOD-323 New=
+Change Value of Parameter 04_Manufacturer Part Number in Part D6 Old=BZT52C5V6S-7-F New=
+Change Value of Parameter 05_Digikey Part Number in Part D6 Old=BZT52C5V6S-FDICT-ND New=
+Change Value of Parameter 06_Manufacturer in Part D6 Old=Diodes Incorporated New=
+Change Value of Parameter 07_Tensión de trabajo in Part D6 Old=5V6 New=
+Change Component Parameter Comment in D6 Old= New=Diodo Zener
+Replace Symbol from D5 Diodo Zener in D:\Mis Documentos\GitHub\Power_Rail_Probe\02_Hardware\01_Diseño\Power_Rail_Probe\Power_Rail_Probe.SchDoc with Diodo Zener from Libreria_Altium.IntLib
+Replace Symbol from D6 Diodo Zener in D:\Mis Documentos\GitHub\Power_Rail_Probe\02_Hardware\01_Diseño\Power_Rail_Probe\Power_Rail_Probe.SchDoc with Diodo Zener from Libreria_Altium.IntLib

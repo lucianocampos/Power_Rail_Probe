@@ -1,0 +1,32 @@
+Added Component: Designator=JP1(1054500101)
+Add component (AddParameter): Name = "01_Componente"; Value = "Conector USB C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "02_Montaje"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "03_Encapsulado"; Value = "USB C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "04_Manufacturer Part Number"; Value = "1054500101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "05_Digikey Part Number"; Value = "WM12856CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "06_Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "07_Contactos"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "08_Paso"; Value = "0.50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "A_Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://files.edac.net/edac/content/698A/698A106-162-211%20-%20EDAC%20USB%20Connector.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "B_Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/edac-inc/698A106-162-211/17186068"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_USB Pin=JP1-A1
+Added Pin To Net: NetName=VCC_USB Pin=JP1-A4
+Added Pin To Net: NetName=USB_CC1 Pin=JP1-A5
+Added Pin To Net: NetName=USB_D_P Pin=JP1-A6
+Added Pin To Net: NetName=USB_D_N Pin=JP1-A7
+Added Pin To Net: NetName=VCC_USB Pin=JP1-A9
+Added Pin To Net: NetName=GND_USB Pin=JP1-A12
+Added Pin To Net: NetName=GND_USB Pin=JP1-B1
+Added Pin To Net: NetName=VCC_USB Pin=JP1-B4
+Added Pin To Net: NetName=USB_CC2 Pin=JP1-B5
+Added Pin To Net: NetName=USB_D_P Pin=JP1-B6
+Added Pin To Net: NetName=USB_D_N Pin=JP1-B7
+Added Pin To Net: NetName=VCC_USB Pin=JP1-B9
+Added Pin To Net: NetName=GND_USB Pin=JP1-B12
+Added Pin To Net: NetName=GND_USB Pin=JP1-SH
+Added Pin To Net: NetName=GND_USB Pin=JP1-SH
+Added Pin To Net: NetName=GND_USB Pin=JP1-SH
+Added Pin To Net: NetName=GND_USB Pin=JP1-SH
+Added Member To Class: ClassName=Power_Rail_Probe Member=Component JP1 698A106-162-211
